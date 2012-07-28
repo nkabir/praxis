@@ -29,3 +29,5 @@ The following steps convert Markdown to HTML for Blogger:
     $ pandoc --no-wrap --from=markdown --to=html post.md | xclip
 
 A better solution is to use [Google's Blogger API (v3)](https://developers.google.com/blogger/). But access requires permission. I've submitted a request but have not heard back from Google.
+
+<img src="https://dl.dropbox.com/u/59707331/praxis/blogger-setup/google-api-console.png" width="100%" />
