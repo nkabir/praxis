@@ -1,14 +1,19 @@
 ## Blogger Setup for Markdown
 
-This blog is now hosted on GitHub: 
+This blog is now hosted on GitHub: [https://github.com/nkabir/praxis](https://github.com/nkabir/praxis)
 
-    https://github.com/nkabir/praxis
+It's a collection of [Markdown](http://daringfireball.net/projects/markdown/) pages along with links to images hosted in a [public Dropbox folder](https://www.dropbox.com/sh/r9qw876n8teix61/ZYDcDxLTn4/praxis). This enables me to edit everything in [vim](http://www.vim.org/).
 
-It's a collection of [Markdown](http://daringfireball.net/projects/markdown/) pages along with links to images hosted in a [public Dropbox folder](https://www.dropbox.com/sh/r9qw876n8teix61/ZYDcDxLTn4/praxis). This enables me to edit everything in [vim](http://www.vim.org/)
+Articles detailing the benefits of Markdown:
+
+* [Your Word Processor is Distracting You](http://globalmoxie.com/blog/plain-text-markdown~print.shtml)
+* [Markdown is the new Word 5.1](http://512pixels.net/2011/05/markdown-new-word51/)
+* [Goodbye Word, Hello Markdown](http://joncom.be/blog/2010/10/goodbye-word-hello-markdown/)
+
 
 ## Project Layout
 
-The `praxis` project is laid out with a folder per article. Each folder (e.g. `praxis/blogger-setup`) has a file named `post.md` that represents the article. There is a corresponding folder `Dropbox/Public/praxis/blogger-setup` that contains all images associated with the article.
+The `praxis` project is laid out with a folder per article. Each folder (e.g. `praxis/blogger-setup`) has a file named `post.md` that contains the article. There is a corresponding folder `Dropbox/Public/praxis/blogger-setup` that contains all images associated with the article.
 
 ## Conversion to Blogger 
 
