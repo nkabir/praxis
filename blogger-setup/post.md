@@ -10,6 +10,7 @@ Articles detailing the benefits of Markdown:
 * [Markdown is the new Word 5.1](http://512pixels.net/2011/05/markdown-new-word51/)
 * [Goodbye Word, Hello Markdown](http://joncom.be/blog/2010/10/goodbye-word-hello-markdown/)
 
+By hosting the source material in a GitHub project, I can rearrange the articles over time while retaining the ability to publish the content to different blogging sites. GitHub automatically processes Markdown content for [easy viewing](https://github.com/nkabir/praxis/blob/master/blogger-setup/post.md). Plus, anyone is free to fork the project and submit corrections or additional content.
 
 ## Project Layout
 
