@@ -1,4 +1,4 @@
-# Eclipse for Python Development
+## Installation
 
 Note that we use _separate_ installations of Eclipse for various languages:
 
@@ -16,9 +16,9 @@ Create a bash script to launch this e.g. `eclipse-python.sh`. Create your new wo
 
     /home/asmith/workspaces/juno/python
 
-# Plugins
+## General Plugins
 
-## Mercurial Plugin
+### Mercurial Plugin
 
 Install the Mercurial plugin from here:
 
@@ -47,5 +47,7 @@ Follow the remaining instructions and you'll have Mercurial support in Eclipse.
 ## Scripting Languages
 
 Note that you should create a separate installation specifically for scripting languages.
+
+### Python
 
 Python support has been integrated into the Aptana Studio Plugin. It's open source and available at [http://www.aptana.com](http://www.aptana.com). 

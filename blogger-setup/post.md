@@ -14,7 +14,9 @@ By hosting the source material in a GitHub project, I can rearrange the articles
 
 ## Project Layout
 
-The `praxis` project is laid out with a folder per article. Each folder (e.g. `praxis/blogger-setup`) has a file named `post.md` that contains the article. There is a corresponding folder `Dropbox/Public/praxis/blogger-setup` that contains all images associated with the article.
+The `praxis` project is laid out with a folder per article. Each folder (e.g. `praxis/blogger-setup`) has a file named `post.md` that contains the article. There is a corresponding folder `Dropbox/Public/praxis/blogger-setup` that contains all images associated with the article. 
+
+>_Note that you can store your images with your github project---but I prefer to edit images on a Mac (while editing text in Linux) so synchronizing via Dropbox eliminates a commit/push step for the images._
 
 ## Conversion to Blogger 
 
