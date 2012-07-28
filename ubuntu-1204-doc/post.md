@@ -4,3 +4,4 @@ This is a `meta` page that ties together posts that apply to [Ubuntu 12.04 LTS](
 
 * [Documentation about documentation](http://praxis.rocketknowledge.com/2012/07/blogger-setup.html)
 * [Configuration with Dropbox](http://praxis.rocketknowledge.com/2012/07/dropbox-setup.html)
+* [Vim setup](http://praxis.rocketknowledge.com/2011/12/vim-setup.html)
