@@ -22,8 +22,10 @@ Following instructions from [here](http://notely.blogspot.com/2011/08/how-to-use
 
 <img src="https://dl.dropbox.com/u/59707331/praxis/blogger-setup/blogger-configuration.png" width="100%" />
 
+## Posting to Blogger
+
 The following steps convert Markdown to HTML for Blogger:
 
     $ pandoc --no-wrap --from=markdown --to=html post.md | xclip
 
-
+A better solution is to use Google's Blogger API (v3). But access requires permission. I've submitted a request but have not heard back from Google.
