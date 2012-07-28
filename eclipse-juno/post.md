@@ -44,9 +44,8 @@ Be sure to install _only_ the `MercurialEclipse` plugin. Do **NOT** install the 
 
 Follow the remaining instructions and you'll have Mercurial support in Eclipse.
 
-## Python Plugin
+## Scripting Languages
 
-Python support has been integrated into the Aptana Studio Plugin. It's open source and available at [http://www.aptana.com](http://www.aptana.com).
+Note that you should create a separate installation specifically for scripting languages.
 
-
-
+Python support has been integrated into the Aptana Studio Plugin. It's open source and available at [http://www.aptana.com](http://www.aptana.com). 
