@@ -30,17 +30,17 @@ The update site is
 
 Add this update site. Go to `Help->Install New Software...`
 
-<img src="https://dl.dropbox.com/u/59707331/gist/eclipse-juno/1-main.png" />
+<img src="https://dl.dropbox.com/u/59707331/praxis/eclipse-juno/1-main.png" width="100%" />
 
 Next, add the Mercurial plugin site.
 
-<img src="https://dl.dropbox.com/u/59707331/gist/eclipse-juno/2-add-site.png" />
+<img src="https://dl.dropbox.com/u/59707331/praxis/eclipse-juno/2-add-site.png" width="100%" />
 
-<img src="https://dl.dropbox.com/u/59707331/gist/eclipse-juno/3-add-repository.png" />
+<img src="https://dl.dropbox.com/u/59707331/praxis/eclipse-juno/3-add-repository.png" width="100%" />
 
 Be sure to install _only_ the `MercurialEclipse` plugin. Do **NOT** install the Windows Binaries.
 
-<img src="https://dl.dropbox.com/u/59707331/gist/eclipse-juno/4-install.png" />
+<img src="https://dl.dropbox.com/u/59707331/praxis/eclipse-juno/4-install.png" width="100%" />
 
 Follow the remaining instructions and you'll have Mercurial support in Eclipse.
 
