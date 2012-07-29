@@ -55,3 +55,16 @@ Python support has been integrated into the Aptana Studio Plugin. It's open sour
 ## Java
 
 Unzip Juno into `$HOME/local/eclipse-juno/eclipse-java/` followed by the Mercurial plugin as outlined above.
+
+### Maven
+
+You'll need the `m2eclipse` plugin to support Maven projects. Add the following repository to Eclipse:
+
+    http://download.eclipse.org/technology/m2e/releases
+
+Once it's installed, go to `Window->Preferences->Maven->Installations` and change the default to a `maven2` installation (`maven3` has compatibility issues with many plugins). Also, change `User Interface` to default to the XML editor for `pom.xml` files---the structured editor is sluggish.
+
+### Color Themes
+
+Aptana provides theming for Python. For Java, you'll need the Eclipse Color Theme plugin available at [http://eclipsecolorthemes.org/](http://eclipsecolorthemes.org/).
+
