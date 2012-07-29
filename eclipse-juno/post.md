@@ -8,7 +8,7 @@ Note that we use _separate_ installations of Eclipse for various languages:
 
 Download [Eclipse Juno JEE](http://www.eclipse.org/downloads/packages/eclipse-ide-java-ee-developers/junor).
 
-Unzip the folder into
+If you are setting up a Python tool chain, unzip the folder into
 
     $HOME/local/eclipse-juno/eclipse-python
 
@@ -50,4 +50,8 @@ Note that you should create a separate installation specifically for scripting l
 
 ### Python
 
-Python support has been integrated into the Aptana Studio Plugin. It's open source and available at [http://www.aptana.com](http://www.aptana.com). 
+Python support has been integrated into the Aptana Studio Plugin. It's open source and available at [http://www.aptana.com](http://www.aptana.com).
+
+## Java
+
+Unzip Juno into `$HOME/local/eclipse-juno/eclipse-java/` followed by the Mercurial plugin as outlined above.
