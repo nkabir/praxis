@@ -66,5 +66,5 @@ Once it's installed, go to `Window->Preferences->Maven->Installations` and chang
 
 ### Color Themes
 
-Aptana provides theming for Python. For Java, you'll need the Eclipse Color Theme plugin available at [http://eclipsecolorthemes.org/](http://eclipsecolorthemes.org/).
+Aptana provides theming for Python. For Java, you'll need the Eclipse Color Theme plugin available at [http://eclipsecolorthemes.org/](http://eclipsecolorthemes.org/). I currently use [vibrant ink](http://eclipsecolorthemes.org/?view=theme&id=3).
 
