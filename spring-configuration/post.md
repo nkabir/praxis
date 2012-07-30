@@ -11,6 +11,6 @@ Configuration requires a _bootstrap_ step in which a flag indicates the specific
 
 The `runtime.context` indicates which LDAP server to contact for additional configuration details.
 
-`springx.configuration` is a sample project that demonstrates these capabilities.
+`springx.configuration` is a sample project that demonstrates these capabilities. The project is [available here](https://bitbucket.org/nkabir/springx/).
 
 
