@@ -13,6 +13,5 @@ Configuration requires a _bootstrap_ step in which a flag indicates the specific
 
 The `runtime.context` indicates which LDAP server to contact for additional configuration details. When an application starts, it first checks the environment's `runtime.context`. It then loads an LDAP configuration based on that context.
 
-`fimero.core.spring` is a `maven2` project that demonstrates these capabilities. The project is [available here](https://bitbucket.org/nkabir/fimero-spring/).
-
+[`fimero.core.spring`](https://bitbucket.org/nkabir/fimero-spring/) is a `maven2` project that demonstrates these capabilities.
 
