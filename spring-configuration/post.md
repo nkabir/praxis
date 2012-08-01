@@ -17,12 +17,20 @@ The `runtime.context` indicates which LDAP server to contact for additional conf
 
 ## Bootstrap
 
-The initial objects are configured via properties files that are loaded from the classpath. Currently, `/fimero` is the location for the properties files:
+The initial objects are configured via properties files that are loaded from the classpath. Currently, `/fimero` is the default classpath location for the properties files:
 
 * `common-config.properties`
 * `test-config.properties`
 * `local-config.properties`
 * `staging.knyc-config.properties`
 * `production.knyc-config.properties`
+
+All runtime contexts inherit `common` properties. Runtime contexts that have dots `.` in their name (e.g. `staging.knyc`) iterate through files in their namespace as follows:
+
+* `common-config.properties`
+* `staging-config.properties`
+* `staging.knyc-config.properties`
+
+This enables the administrator to override values by specifying a more specific runtime context.
 
 ![pojo image](http://dl.dropbox.com/u/59707331/praxis/spring-configuration/spring-properties.png)
