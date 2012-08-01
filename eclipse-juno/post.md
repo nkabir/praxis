@@ -68,3 +68,6 @@ Once it's installed, go to `Window->Preferences->Maven->Installations` and chang
 
 Aptana provides theming for Python. For Java, you'll need the Eclipse Color Theme plugin available at [http://eclipsecolorthemes.org/](http://eclipsecolorthemes.org/). I currently use [vibrant ink](http://eclipsecolorthemes.org/?view=theme&id=3).
 
+### Checkstyle
+
+The Checkstyle plugin allows the user to define a uniform set of coding conventions that are analyzed by Eclipse. The plugin is available via the [Eclipse marketplace](http://marketplace.eclipse.org/content/checkstyle-plug).
