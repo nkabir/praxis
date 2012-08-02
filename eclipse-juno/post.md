@@ -44,6 +44,12 @@ Be sure to install _only_ the `MercurialEclipse` plugin. Do **NOT** install the 
 
 Follow the remaining instructions and you'll have Mercurial support in Eclipse.
 
+### Markdown Editor
+
+A markdown editor is available from [Winterwell Associates](http://www.winterwell.com/software/markdown-editor.php). Add the following update site to Eclipse:
+
+    http://winterstein.me.uk/projects/tt-update-site/
+
 ## Scripting Languages
 
 Note that you should create a separate installation specifically for scripting languages.
