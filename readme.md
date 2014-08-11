@@ -8,4 +8,4 @@ Documentation spans several areas:
 
 Modified: 20140811
 
-Github modification
+Bitbucket modification
