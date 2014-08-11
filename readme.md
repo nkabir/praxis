@@ -7,3 +7,5 @@ Documentation spans several areas:
 * **Integration** Documentation for integration (setting up and deploying services) is available on [http://praxis.rocketknowledge.com](http://praxis.rocketknowledge.com) and the associated Github repository at [https://www.github.com/nkabir/praxis](https://www.github.com/nkabir/praxis).
 
 Modified: 20140811
+
+Github modification
